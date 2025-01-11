@@ -1,6 +1,6 @@
 📜 GitHub Repository Highlights:
 
-Live Link :- https://github.com/Nisarg266/Time-Clock-Website.git
+Live Link :- https://nisarg266.github.io/Time-Clock-Website/
 
 🧱 Clear Code Structure:
 The repository is organized with dedicated folders for HTML, CSS, and JavaScript, making it easy for collaborators and other developers to navigate.
